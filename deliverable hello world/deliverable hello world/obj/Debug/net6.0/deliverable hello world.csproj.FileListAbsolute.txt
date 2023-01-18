@@ -1,0 +1,15 @@
+/Users/adrianaalcocer/Desktop/deliverable hello world/deliverable hello world/obj/Debug/net6.0/deliverable hello world.csproj.AssemblyReference.cache
+/Users/adrianaalcocer/Desktop/deliverable hello world/deliverable hello world/obj/Debug/net6.0/deliverable hello world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianaalcocer/Desktop/deliverable hello world/deliverable hello world/obj/Debug/net6.0/deliverable hello world.AssemblyInfoInputs.cache
+/Users/adrianaalcocer/Desktop/deliverable hello world/deliverable hello world/obj/Debug/net6.0/deliverable hello world.AssemblyInfo.cs
+/Users/adrianaalcocer/Desktop/deliverable hello world/deliverable hello world/obj/Debug/net6.0/deliverable hello world.csproj.CoreCompileInputs.cache
+/Users/adrianaalcocer/Desktop/deliverable hello world/deliverable hello world/bin/Debug/net6.0/deliverable hello world
+/Users/adrianaalcocer/Desktop/deliverable hello world/deliverable hello world/bin/Debug/net6.0/deliverable hello world.deps.json
+/Users/adrianaalcocer/Desktop/deliverable hello world/deliverable hello world/bin/Debug/net6.0/deliverable hello world.runtimeconfig.json
+/Users/adrianaalcocer/Desktop/deliverable hello world/deliverable hello world/bin/Debug/net6.0/deliverable hello world.dll
+/Users/adrianaalcocer/Desktop/deliverable hello world/deliverable hello world/bin/Debug/net6.0/deliverable hello world.pdb
+/Users/adrianaalcocer/Desktop/deliverable hello world/deliverable hello world/obj/Debug/net6.0/deliverable hello world.dll
+/Users/adrianaalcocer/Desktop/deliverable hello world/deliverable hello world/obj/Debug/net6.0/refint/deliverable hello world.dll
+/Users/adrianaalcocer/Desktop/deliverable hello world/deliverable hello world/obj/Debug/net6.0/deliverable hello world.pdb
+/Users/adrianaalcocer/Desktop/deliverable hello world/deliverable hello world/obj/Debug/net6.0/deliverable hello world.genruntimeconfig.cache
+/Users/adrianaalcocer/Desktop/deliverable hello world/deliverable hello world/obj/Debug/net6.0/ref/deliverable hello world.dll
